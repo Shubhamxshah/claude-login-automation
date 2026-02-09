@@ -13,6 +13,8 @@
   "type": "commonjs",
   "dependencies": {
     "@types/node": "^25.2.2",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "playwright": "^1.58.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
