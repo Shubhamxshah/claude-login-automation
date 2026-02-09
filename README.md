@@ -28,16 +28,19 @@ npx playwright install chromium
 cp accounts.example.json accounts.json
 ```
 
-Edit `accounts.json` with your actual Google account emails:
+Edit `accounts.json` with your actual Google account emails. Add as many or as few accounts as you have:
 
 ```json
 {
   "accounts": [
     { "id": "account-1", "email": "you@gmail.com", "lastUsed": null },
-    { "id": "account-2", "email": "you-alt@gmail.com", "lastUsed": null }
+    { "id": "account-2", "email": "you-alt@gmail.com", "lastUsed": null },
+    { "id": "account-3", "email": "another@gmail.com", "lastUsed": null }
   ]
 }
 ```
+
+The `id` can be any unique string — it's used as the profile folder name.
 
 ## Usage
 
