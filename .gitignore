@@ -2,3 +2,4 @@ node_modules/
 dist/
 profiles/
 accounts.json
+config.bat
