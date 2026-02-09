@@ -1,0 +1,7 @@
+{
+  "accounts": [
+    { "id": "account-1", "email": "your-email-1@gmail.com", "lastUsed": null },
+    { "id": "account-2", "email": "your-email-2@gmail.com", "lastUsed": null },
+    { "id": "account-3", "email": "your-email-3@gmail.com", "lastUsed": null }
+  ]
+}
